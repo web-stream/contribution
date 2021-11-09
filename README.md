@@ -41,7 +41,7 @@ contribution.jruns.com
 
 ---
 + [edit](https://github.com/web-stream/contribution/edit/main/README.md)
-+ [web-stream/www: Website about Webstreaming - WebStream.dev](https://github.com/web-stream/contribution)
++ [web-stream/contribution](https://github.com/web-stream/contribution)
 ```
 https://github.com/web-stream/contribution.git
 ```
